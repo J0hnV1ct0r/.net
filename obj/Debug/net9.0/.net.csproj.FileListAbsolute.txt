@@ -1,0 +1,15 @@
+C:\faculdade\dio\fundamentos_net\bin\Debug\net9.0\.net.exe
+C:\faculdade\dio\fundamentos_net\bin\Debug\net9.0\.net.deps.json
+C:\faculdade\dio\fundamentos_net\bin\Debug\net9.0\.net.runtimeconfig.json
+C:\faculdade\dio\fundamentos_net\bin\Debug\net9.0\.net.dll
+C:\faculdade\dio\fundamentos_net\bin\Debug\net9.0\.net.pdb
+C:\faculdade\dio\fundamentos_net\obj\Debug\net9.0\.net.GeneratedMSBuildEditorConfig.editorconfig
+C:\faculdade\dio\fundamentos_net\obj\Debug\net9.0\.net.AssemblyInfoInputs.cache
+C:\faculdade\dio\fundamentos_net\obj\Debug\net9.0\.net.AssemblyInfo.cs
+C:\faculdade\dio\fundamentos_net\obj\Debug\net9.0\.net.csproj.CoreCompileInputs.cache
+C:\faculdade\dio\fundamentos_net\obj\Debug\net9.0\.net.sourcelink.json
+C:\faculdade\dio\fundamentos_net\obj\Debug\net9.0\.net.dll
+C:\faculdade\dio\fundamentos_net\obj\Debug\net9.0\refint\.net.dll
+C:\faculdade\dio\fundamentos_net\obj\Debug\net9.0\.net.pdb
+C:\faculdade\dio\fundamentos_net\obj\Debug\net9.0\.net.genruntimeconfig.cache
+C:\faculdade\dio\fundamentos_net\obj\Debug\net9.0\ref\.net.dll

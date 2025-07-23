@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\faculdade\\dio\\.net\\.net.csproj": {}
+    "C:\\faculdade\\dio\\fundamentos_net\\.net.csproj": {}
   },
   "projects": {
-    "C:\\faculdade\\dio\\.net\\.net.csproj": {
+    "C:\\faculdade\\dio\\fundamentos_net\\.net.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\faculdade\\dio\\.net\\.net.csproj",
+        "projectUniqueName": "C:\\faculdade\\dio\\fundamentos_net\\.net.csproj",
         "projectName": ".net",
-        "projectPath": "C:\\faculdade\\dio\\.net\\.net.csproj",
+        "projectPath": "C:\\faculdade\\dio\\fundamentos_net\\.net.csproj",
         "packagesPath": "C:\\Users\\j1747\\.nuget\\packages\\",
-        "outputPath": "C:\\faculdade\\dio\\.net\\obj\\",
+        "outputPath": "C:\\faculdade\\dio\\fundamentos_net\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\j1747\\AppData\\Roaming\\NuGet\\NuGet.Config"
